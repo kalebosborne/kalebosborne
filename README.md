@@ -45,7 +45,7 @@
 
 [<code>
 <img alt="PHP" width="26px" src="https://img.icons8.com/dusk/128/000000/php-logo.png">
-</code>](https://nodejs.org/en/)
+</code>](https://www.php.net/)
 
 [<code>
 <img alt="MySQL" width="26px" src="https://img.icons8.com/ios-filled/250/000000/mysql-logo.png">
