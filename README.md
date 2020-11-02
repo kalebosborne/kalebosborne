@@ -67,7 +67,7 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 </code>](https://code.visualstudio.com/)
 
 [<code>
-<img alt="atom" width="26px" src="<img src="https://img.icons8.com/clouds/240/000000/atom-editor.png">
+<img alt="atom" width="26px" src="https://img.icons8.com/clouds/240/000000/atom-editor.png">
 </code>](https://atom.io/)
 
 ---
