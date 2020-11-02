@@ -43,6 +43,10 @@
 
 ---
 
+## Projects
+
+---
+
 ## 📝 Latest Blog Posts
 
 These are my latest posts on [My Blog](https://kcodes.dev) and [Medium](https://medium.com/@kalebosborne):
