@@ -44,7 +44,7 @@
 </code>](https://nodejs.org/en/)
 
 [<code>
-<img alt="PHP" width="26px" src="<img src="https://img.icons8.com/dusk/128/000000/php-logo.png"/>">
+<img alt="PHP" width="26px" src="https://img.icons8.com/dusk/128/000000/php-logo.png">
 </code>](https://nodejs.org/en/)
 
 [<code>
