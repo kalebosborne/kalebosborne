@@ -48,7 +48,7 @@
 </code>](https://www.php.net/)
 
 [<code>
- <img src="https://img.icons8.com/ios-filled/100/000000/laravel.png"/>
+ <img alt="Laravel" width="26" src="https://img.icons8.com/ios-filled/100/000000/laravel.png"/>
  </code>](https://laravel.com/)
 
 
