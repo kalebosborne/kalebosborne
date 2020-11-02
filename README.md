@@ -62,7 +62,7 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 <img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png">
 </code>](https://www.latex-project.org/)
 
-
+[<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 
