@@ -13,58 +13,31 @@
 
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-[<code>
+</code>](https://developer.mozilla.org/en-US/docs/Web/HTML) [<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-[<code>
+</code>](https://developer.mozilla.org/en-US/docs/Web/CSS) [<code>
 <img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
-
-[<code>
+</code>](https://sass-lang.com/) [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-[<code>
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<code>
 <img alt="jquery" width="26px" src="https://img.icons8.com/ios-filled/240/000000/jquery.png"/>
-</code>](https://jquery.com/)
-
-[<code>
+</code>](https://jquery.com/) [<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
-
-[<code>
+</code>](https://reactjs.org/) [<code>
 <img alt="Vue" width="26px" src="https://img.icons8.com/color/144/000000/vue-js.png">
-</code>](https://vuejs.org/)
-
-[<code>
+</code>](https://vuejs.org/) [<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-
-[<code>
+</code>](https://nodejs.org/en/) [<code>
 <img alt="PHP" width="26px" src="https://img.icons8.com/dusk/128/000000/php-logo.png">
-</code>](https://www.php.net/)
-
-[<code>
+</code>](https://www.php.net/) [<code>
  <img alt="Laravel" width="26" src="https://img.icons8.com/ios-filled/100/000000/laravel.png"/>
- </code>](https://laravel.com/)
-
-
-[<code>
+ </code>](https://laravel.com/) [<code>
 <img alt="MySQL" width="26px" src="https://img.icons8.com/ios-filled/250/000000/mysql-logo.png">
-</code>](https://dev.mysql.com/)
-
-[<code>
+</code>](https://dev.mysql.com/) [<code>
 <img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png">
-</code>](https://www.mongodb.com/)
-
-[<code>
+</code>](https://www.mongodb.com/) [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-
-[<code>
+</code>](https://code.visualstudio.com/) [<code>
 <img alt="atom" width="26px" src="https://img.icons8.com/clouds/240/000000/atom-editor.png">
 </code>](https://atom.io/)
 
