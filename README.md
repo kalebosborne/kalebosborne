@@ -1,5 +1,7 @@
 
 ### Hi there, I'm [Kaleb Osborne](https://kalebosborne.com) 👋
+
+v 0.2.0
  
 ## I'm a Modern Web Developer
 
