@@ -28,7 +28,7 @@
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 [<code>
-<img alt="jquery" width="26px" src="https://img.icons8.com/ios-filled/240/000000/jquery.png"/> />
+<img alt="jquery" width="26px" src="https://img.icons8.com/ios-filled/240/000000/jquery.png"/>
 </code>](https://jquery.com/)
 
 [<code>
