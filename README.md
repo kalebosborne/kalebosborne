@@ -31,11 +31,9 @@ v 0.2.0
 <img alt="MySQL" width="26px" src="https://img.icons8.com/ios-filled/250/000000/mysql-logo.png">
 </code>](https://dev.mysql.com/) [<code>
 <img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png">
-</code>](https://www.mongodb.com/) [<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/) [<code>
-<img alt="atom" width="26px" src="https://img.icons8.com/clouds/240/000000/atom-editor.png">
-</code>](https://atom.io/)
+</code>](https://www.mongodb.com/)  [<code>
+<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/144/000000/azure-1.png">
+</code>](https://azure.microsoft.com/) 
 
 ---
 
