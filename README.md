@@ -30,8 +30,8 @@ v 0.2.0
 </code>](https://reactjs.org/) [<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/) [<code>
-<img alt="MySQL" width="26px" src="https://img.icons8.com/ios-filled/250/000000/mysql-logo.png">
-</code>](https://dev.mysql.com/) [<code>
+<img alt="Golang" width="26px" src="https://img.icons8.com/color/96/000000/golang.png">
+</code>](https://golang.org/) [<code>
 <img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png">
 </code>](https://www.mongodb.com/)  [<code>
 <img alt="Azure" width="26px" src="https://img.icons8.com/color/144/000000/azure-1.png">
