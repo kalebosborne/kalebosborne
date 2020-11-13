@@ -20,13 +20,13 @@ v 0.2.0
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS) [<code>
 <img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
 </code>](https://sass-lang.com/) [<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<code>
-<img alt="Typescript" width="26px" src="https://img.icons8.com/color/96/000000/typescript.png"/>
+<img alt="Typescript" width="26px" src="https://img.icons8.com/color/96/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)  [<code>
-<img alt="react" width="26px" src="https://img.icons8.com/color/96/000000/graphql.png"/>
-</code>](https://graphql.com/) [<code>
-<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
+<img alt="Graphql" width="26px" src="https://img.icons8.com/color/96/000000/graphql.png">
+</code>](https://graphql.org/) [<code>
+<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png">
 </code>](https://reactjs.org/) [<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/) [<code>
