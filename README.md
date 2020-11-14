@@ -3,7 +3,7 @@
 
 v 0.2.0
  
-## I'm a Modern Web Developer
+## I'm a Fullstack JS/TS Web Developer
 
 - 🔭 I’m currently looking for work!
 - 🌱 I’m currently learning Nodejs/Express & Angular
