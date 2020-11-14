@@ -6,7 +6,7 @@ v 0.2.0
 ## I'm a Modern Web Developer
 
 - 🔭 I’m currently looking for work!
-- 🌱 I’m currently learning Nodejs/Express & Golang
+- 🌱 I’m currently learning Nodejs/Express & Angular
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I made a website called [Kiwicode.co](https://kiwicode.co) Where you can learn web development for free
 
