@@ -28,8 +28,21 @@ v 0.2.0
 </code>](https://angular.io/) [<code>
 <img alt="React.js" width="26px" src="https://img.icons8.com/color/96/000000/react-native.png">
 </code>](https://reactjs.org/)  [<code>
+<img alt="Ruby" width="26px" src="https://img.icons8.com/color/96/000000/react-native.png">
+</code>](https://reactjs.org/)[<code>
+<img alt="Ruby On Rails" width="26px" src="https://img.icons8.com/color/96/000000/react-native.png">
+</code>](https://reactjs.org/)[<code>
+<img alt="Java" width="26px" src="https://img.icons8.com/color/96/000000/react-native.png">
+</code>](https://reactjs.org/)[<code>
+<img alt="Spring" width="26px" src="https://img.icons8.com/color/96/000000/react-native.png">
+</code>](https://reactjs.org/)[<code>
+<img alt="Rust" width="26px" src="https://img.icons8.com/color/96/000000/react-native.png">
+</code>](https://reactjs.org/)[<code>
+<img alt="Rocket" width="26px" src="https://img.icons8.com/color/96/000000/react-native.png">
+</code>](https://reactjs.org/) [<code>
 <img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png">
-</code>](https://www.mongodb.com/)   
+</code>](https://www.mongodb.com/)
+
 
 ---
 
