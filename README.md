@@ -23,25 +23,24 @@ v 0.2.0
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<code>
 <img alt="Typescript" width="26px" src="https://img.icons8.com/color/96/000000/typescript.png">
-</code>](https://www.typescriptlang.org/) [<code>
-<img alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png">
-</code>](https://angular.io/) [<code>
+</code>](https://www.typescriptlang.org/)[<code>
 <img alt="React.js" width="26px" src="https://img.icons8.com/color/96/000000/react-native.png">
-</code>](https://reactjs.org/)  [<code>
-<img alt="Ruby" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
-</code>](https://reactjs.org/)[<code>
-<img alt="Ruby On Rails" width="26px" src="https://img.icons8.com/color/96/000000/react-native.png">
-</code>](https://reactjs.org/)[<code>
+</code>](https://reactjs.org/) [<code>
+<img alt="Angular" width="26px" src="https://img.icons8.com/color/96/000000/react-native.png">
+</code>](https://reactnative.dev/) [<code>
+<img alt="Ruby" width="26px" src="https://img.icons8.com/officel/80/000000/ruby-programming-language.png">
+</code>](https://www.ruby-lang.org/)[<code>
+<img alt="Ruby On Rails" width="26px" src="https://www.kindpng.com/picc/m/25-255340_ruby-on-rails-png-png-download-best-ruby.png">
+</code>](https://rubyonrails.org/)[<code>
 <img alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
 </code>](https://www.java.com/en/)[<code>
-<img alt="Spring" width="26px" src="https://img.icons8.com/color/96/000000/react-native.png">
-</code>](https://reactjs.org/)[<code>
-<img alt="Rust" width="26px" src="https://img.icons8.com/color/96/000000/react-native.png">
-</code>](https://reactjs.org/)[<code>
-<img alt="Rocket" width="26px" src="https://img.icons8.com/color/96/000000/react-native.png">
-</code>](https://reactjs.org/) [<code>
-<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png">
-</code>](https://www.mongodb.com/)
+<img alt="Spring" width="26px" src="https://img.favpng.com/6/11/12/spring-framework-software-framework-java-application-framework-web-framework-png-favpng-ubKTiZZUAdqueXhSNYRazpqYy.jpg">
+</code>](https://spring.io/)  [<code>
+<img alt="Rust" width="26px" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg">
+</code>](https://www.rust-lang.org/)[<code>
+<img alt="Rocket" width="26px" src="https://rocket.rs/v0.4/images/logo-boxed.png">
+</code>](https://rocket.rs/) [<code>
+
 
 
 ---
