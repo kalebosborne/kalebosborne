@@ -1,9 +1,7 @@
 
 ### Hi there, I'm [Kaleb Osborne](https://kalebosborne.com) 👋
-
-v 0.2.0
  
-## I'm a Fullstack JS/TS Web Developer
+## I'm a Fullstack Web & Mobile Developer
 
 - 🌱 I’m currently learning React Native
 - ⚡ Fun fact: I made a website called [Kiwicode.co](https://kiwicode.co) Where you can learn web/mobile development for free
@@ -24,7 +22,7 @@ v 0.2.0
 </code>](https://www.typescriptlang.org/)[<code>
 <img alt="React.js" width="26px" src="https://img.icons8.com/color/96/000000/react-native.png">
 </code>](https://reactjs.org/) [<code>
-<img alt="Angular" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--5N472VlU--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://repository-images.githubusercontent.com/65750241/79017180-d4ce-11e9-9955-3f0a7be00c7a">
+<img alt="React Native / Expo" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--5N472VlU--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://repository-images.githubusercontent.com/65750241/79017180-d4ce-11e9-9955-3f0a7be00c7a">
 </code>](https://expo.io/) [<code>
 <img alt="Ruby" width="26px" src="https://img.icons8.com/officel/80/000000/ruby-programming-language.png">
 </code>](https://www.ruby-lang.org/)[<code>
