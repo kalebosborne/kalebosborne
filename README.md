@@ -56,11 +56,11 @@ Coming Soon ...
 
 ## Links
 
-🌐 [Website]: https://kalebosborne
-📝 [Blog]: https://kcodes.dev
-👌 [Medium]: https://medium.com/@kalebosborne
-📺 [Kiwicode]: https://www.kiwicode.co
-📮 [Gmail]: mailto:kalebosbornek3@gmail.com
+🌐 [Website](https://kalebosborne)
+📝 [Blog](https://kcodes.dev)
+👌 [Medium](https://medium.com/@kalebosborne)
+📺 [Kiwicode](https://www.kiwicode.co)
+📮 [Email](kalebosbornek3@gmail.com0
 
 
 
