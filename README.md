@@ -5,9 +5,7 @@ v 0.2.0
  
 ## I'm a Fullstack JS/TS Web Developer
 
-- 🔭 I’m currently looking for work!
-- 🌱 I’m currently learning Angular
-- 🥅 2020 Goals: Contribute more to Open Source projects & Make Kiwicode Courses
+- 🌱 I’m currently learning React Native
 - ⚡ Fun fact: I made a website called [Kiwicode.co](https://kiwicode.co) Where you can learn web/mobile development for free
 
 
@@ -56,12 +54,13 @@ These are my latest posts on [My Blog](https://kcodes.dev) and [Medium](https://
 Coming Soon ...
 ---
 
+## Links
 
-[Website]: https://kalebosborne
-[Blog]: https://kcodes.dev
-[Medium]: https://medium.com/@kalebosborne
-[Kiwicode]: https://www.kiwicode.co
-[Gmail]: mailto:kalebosbornek3@gmail.com
+🌐 [Website]: https://kalebosborne
+📝 [Blog]: https://kcodes.dev
+👌 [Medium]: https://medium.com/@kalebosborne
+📺 [Kiwicode]: https://www.kiwicode.co
+📮 [Gmail]: mailto:kalebosbornek3@gmail.com
 
 
 
