@@ -60,7 +60,7 @@ Coming Soon ...
 📝 [Blog](https://kcodes.dev)
 👌 [Medium](https://medium.com/@kalebosborne)
 📺 [Kiwicode](https://www.kiwicode.co)
-📮 [Email](kalebosbornek3@gmail.com0
+📮 [Email](kalebosbornek3@gmail.com)
 
 
 
