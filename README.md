@@ -22,11 +22,11 @@ Coming Soon ...
 
 ## Links
 
-🌐 [Website](https://kalebosborne)
+🌐 [Website](https://kalebosborne.com)
 📝 [Blog](https://kcodes.dev)
 👌 [Medium](https://medium.com/@kalebosborne)
 📺 [Kiwicode](https://www.kiwicode.co)
-📮 [Email](kalebosbornek3@gmail.com)
+📮 [Email](mailto:kalebosbornek3@gmail.com)
 
 
 
