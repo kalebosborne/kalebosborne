@@ -1,10 +1,7 @@
 
 ### Hi there, I'm [Kaleb Osborne](https://kalebosborne.com) 👋
  
-## I'm a Fullstack Web & Mobile Developer
-
-- 🌱 I’m currently learning React Native
-- ⚡ Fun fact: I made a website called [Kiwicode.co](https://kiwicode.co) Where you can learn web/mobile development for free
+## Interested in The Web / Computer Science & Artificial Intelligence
 
 
 ===
@@ -23,10 +20,9 @@ Coming Soon ...
 ## Links
 
 🌐 [Website](https://kalebosborne.com)
-📝 [Blog](https://kcodes.dev)
-👌 [Medium](https://medium.com/@kalebosborne)
+📝 [Blog](https://blog.kalebosborne.com)
 📺 [Kiwicode](https://www.kiwicode.co)
-📮 [Email](mailto:kalebosbornek3@gmail.com)
+
 
 
 
