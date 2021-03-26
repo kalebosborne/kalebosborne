@@ -1,9 +1,9 @@
 
 ### Hi there, I'm [Kaleb Osborne](https://kalebosborne.com) 👋
  
-📚 Currently Learning: Angular / Angular Material / Ionic
-🔨 Currently Working On: Monk-CSS [Website](http://monkcss.tk) [Documentation](http://monkcss.tk/documentation) [Github](https://github.com/kalebosborne/monk-css)
-🏆 Contributing To: None At The Moment
+📚 Currently Learning: Angular / Angular Material / Ionic <br>
+🔨 Currently Working On: Monk-CSS [Website](http://monkcss.tk) [Documentation](http://monkcss.tk/documentation) [Github](https://github.com/kalebosborne/monk-css)<br>
+🏆 Contributing To: None At The Moment <br>
 
 
 ===
