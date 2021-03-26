@@ -1,7 +1,9 @@
 
 ### Hi there, I'm [Kaleb Osborne](https://kalebosborne.com) 👋
  
-## Interested in The Web / Computer Science & Artificial Intelligence
+📚 Currently Learning: Angular / Angular Material / Ionic
+🔨 Currently Working On: Monk-CSS [Website](http://monkcss.tk) [Documentation](http://monkcss.tk/documentation) [Github](https://github.com/kalebosborne/monk-css)
+🏆 Contributing To: None At The Moment
 
 
 ===
@@ -12,7 +14,7 @@
 
 ## 📝 Latest Blog Posts
 
-These are my latest posts on [My Blog](https://kcodes.dev) and [Medium](https://medium.com/@kalebosborne):
+These are my latest posts on [My Blog](https://blog.kalebosborne.com) and [Medium](https://medium.com/@kalebosborne):
 
 Coming Soon ...
 ===
@@ -21,7 +23,7 @@ Coming Soon ...
 
 🌐 [Website](https://kalebosborne.com)
 📝 [Blog](https://blog.kalebosborne.com)
-📺 [Kiwicode](https://www.kiwicode.co)
+
 
 
 
