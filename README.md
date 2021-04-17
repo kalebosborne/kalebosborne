@@ -22,7 +22,7 @@ Coming Soon ...
 ## Links
 
 🌐 [Website](https://kalebosborne.com)
-📝 [Blog](https://blog.kalebosborne.com)
+📝 [Blog](https://kalebosborne.com/blog)
 
 
 
