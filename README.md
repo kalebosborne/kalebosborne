@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   </a>
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/apachecassandra-%23a1287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="cassandra" />
+    <img src="https://img.shields.io/badge/apachecassandra-%231287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="cassandra" />
   </a>
   <a href="https://www.scylladb.com/" target="_blank" rel="noreferrer">
     <h4>Scylla</h4>
