@@ -30,7 +30,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
   </a>
-  <a href="https://angular.io/ target="_blank" rel="noreferrer">
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=%23FFFFFF" alt="angular" />
   </a>
 </details>
