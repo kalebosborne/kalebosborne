@@ -129,10 +129,10 @@
     <h4> Alpine </h4>
   </a>
    <a href="http://www.slackware.com/" target="_blank" rel="noreferrer">
-    <h4> Slackware </h4>
+    <img src="https://img.shields.io/badge/slackware-%23000000.svg?style=for-the-badge&logo=slackware&logoColor=white" alt="slackware" />
   </a>
   <a href="https://www.microsoft.com/en-ca/windows" target="_blank" rel="noreferrer">
-    <h4> Windows 11 </h4>
+    <img src="https://img.shields.io/badge/windows11-%230078D4.svg?style=for-the-badge&logo=windows11&logoColor=black" alt="windows11" />
   </a>
 
   <h5>Tools</h5>
