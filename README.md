@@ -94,7 +94,7 @@
 
   <h5>Version Control</h5>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/git-%237FE719.svg?style=for-the-badge&logo=git&logoColor=black" alt="git" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=black" alt="git" />
   </a>
 
 
