@@ -103,7 +103,7 @@
     <img src="https://img.shields.io/badge/gtk-%237FE719.svg?style=for-the-badge&logo=gtk&logoColor=dimgray" alt="gtk" />
   </a>
   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/electron-%2320232.svg?style=for-the-badge&logo=electron&logoColor=%2361DAFB" alt="electron" />
+    <img src="https://img.shields.io/badge/electron-%2320232a.svg?style=for-the-badge&logo=electron&logoColor=%2361DAFB" alt="electron" />
   </a>
   <a href="https://www.android.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/android-%234A853.svg?style=for-the-badge&logo=android&logoColor=black" alt="android" />
