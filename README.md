@@ -140,7 +140,7 @@
     <img src="https://img.shields.io/badge/vscode-%232C2C32.svg?style=for-the-badge&logo=visualstudiocode&logoColor=%230098ff" alt="vscode" />
   </a>
   <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/macs-%237F5AB6.svg?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/emacs-%237F5AB6.svg?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="git" />
   </a>
   
   
