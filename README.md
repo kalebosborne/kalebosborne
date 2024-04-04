@@ -50,7 +50,7 @@
       <img src="https://img.shields.io/badge/java-%23F39821.svg?style=for-the-badge&logo=openjdk&logoColor=black" alt="java" />
     </a>
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/c#-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="c#" />
+      <img src="https://img.shields.io/badge/.net-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" />
     </a>
     <a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=black" alt="c++" />
