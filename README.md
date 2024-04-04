@@ -114,7 +114,7 @@
 
   <h5> Operating Systems </h5>
   <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=git&logoColor=black" alt="debian" />
+    <img src="https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=black" alt="debian" />
   </a>
   <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank" rel="noreferrer">
     <h4> Red Hat Enterprise </h4>
