@@ -96,6 +96,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=black" alt="git" />
   </a>
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/github actions-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
 
 
   <h3> GUIs </h3>
@@ -132,7 +135,7 @@
     <img src="https://img.shields.io/badge/slackware-%23000000.svg?style=for-the-badge&logo=slackware&logoColor=white" alt="slackware" />
   </a>
   <a href="https://www.microsoft.com/en-ca/windows" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/windows11-%230078D4.svg?style=for-the-badge&logo=windows11&logoColor=black" alt="windows11" />
+    <img src="https://img.shields.io/badge/windows 11-%230078D4.svg?style=for-the-badge&logo=windows11&logoColor=black" alt="windows11" />
   </a>
 
   <h5>Tools</h5>
@@ -143,10 +146,10 @@
     <img src="https://img.shields.io/badge/emacs-%237F5AB6.svg?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="git" />
   </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/androidstudio-%234A853.svg?style=for-the-badge&logo=androidstudio&logoColor=black" alt="android" />
+    <img src="https://img.shields.io/badge/android studio-%234A853.svg?style=for-the-badge&logo=androidstudio&logoColor=black" alt="android" />
   </a>
   <a href="https://www.gtk.org/docs/dev-tools/gnome-builder/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/gnomebuilder-%23151515.svg?style=for-the-badge&logo=gnome&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/gnome builder-%23151515.svg?style=for-the-badge&logo=gnome&logoColor=white" alt="git" />
   </a>
   
   
