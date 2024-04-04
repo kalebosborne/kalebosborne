@@ -117,10 +117,10 @@
 
   <h5> Operating Systems </h5>
   <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=black" alt="debian" />
+    <img src="https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white" alt="debian" />
   </a>
   <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/RHEL-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=black" alt="redhat" />
+    <img src="https://img.shields.io/badge/RHEL-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white" alt="redhat" />
   </a>
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/arch-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" alt="archlinux" />
@@ -129,7 +129,7 @@
     <img src="https://img.shields.io/badge/gentoo-%2354487A.svg?style=for-the-badge&logo=gentoo&logoColor=white" alt="gentoo" />
   </a>
   <a href="https://www.alpinelinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/alpine-%230D597F.svg?style=for-the-badge&logo=alpinelinux&logoColor=black" alt="alpinelinux" />
+    <img src="https://img.shields.io/badge/alpine-%230D597F.svg?style=for-the-badge&logo=alpinelinux&logoColor=white" alt="alpinelinux" />
   </a>
    <a href="http://www.slackware.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/slackware-%23000000.svg?style=for-the-badge&logo=slackware&logoColor=white" alt="slackware" />
