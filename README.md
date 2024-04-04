@@ -142,6 +142,12 @@
   <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/emacs-%237F5AB6.svg?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="git" />
   </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/androidstudio-%234A853.svg?style=for-the-badge&logo=androidstudio&logoColor=black" alt="android" />
+  </a>
+  <a href="https://www.gtk.org/docs/dev-tools/gnome-builder/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/gnomebuilder-%23151515.svg?style=for-the-badge&logo=gnome&logoColor=white" alt="git" />
+  </a>
   
   
 </details>
