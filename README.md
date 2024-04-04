@@ -38,22 +38,22 @@
 
   <h5> Languages </h5>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=black" alt="python" />
+      <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python" />
     </a>
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-      <h4> NodeJs </h4>
+      <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
     </a>
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=black" alt="ruby" />
+      <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" />
     </a>
     <a href="https://openjdk.org/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/openjdk-%23F39821.svg?style=for-the-badge&logo=openjdk&logoColor=black" alt="java" />
+      <img src="https://img.shields.io/badge/java-%23F39821.svg?style=for-the-badge&logo=openjdk&logoColor=black" alt="java" />
     </a>
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-      <h4> .Net / C# </h4> 
+      <img src="https://img.shields.io/badge/c#-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="c#" />
     </a>
     <a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer">
-      <h4> C++ </h4>
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=black" alt="c++" />
     </a>
 
   <h5> Databases </h5>
