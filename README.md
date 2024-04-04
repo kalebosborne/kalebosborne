@@ -61,19 +61,19 @@
     <h4> PostgreSQL</h4>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <h4> MySQL</h4>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <h4> MongoDB</h4>
+    <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   </a>
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-    <h4>Cassandra</h4>
+    <img src="https://img.shields.io/badge/apachecassandra-%231287B1.svg?style=for-the-badge&logo=appachecassandra&logoColor=white" alt="mongodb" />
   </a>
   <a href="https://www.scylladb.com/" target="_blank" rel="noreferrer">
     <h4>Scylla</h4>
   </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <h4> Redis </h4>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />
   </a>
 
   <h3> Deployment / Version Control </h3>
