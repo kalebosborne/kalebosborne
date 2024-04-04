@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   </a>
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/apachecassandra-%231287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="cassandra" />
+    <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="cassandra" />
   </a>
   <a href="https://www.scylladb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/scylladb-%236CD5E7.svg?style=for-the-badge&logo=scylladb&logoColor=white" alt="scylladb" />
@@ -94,19 +94,19 @@
 
   <h5>Version Control</h5>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/git-%237FE719.svg?style=for-the-badge&logo=git&logoColor=black" alt="git" />
   </a>
 
 
   <h3> GUIs </h3>
   <a href="https://www.gtk.org/" target="_blank" rel="noreferrer">
-    <h4> GTK </h4>
+    <img src="https://img.shields.io/badge/GTK-%230db7ed.svg?style=for-the-badge&logo=gtk&logoColor=dimgray" alt="gtk" />
   </a>
   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-    <h4> Electron </h4>
+    <img src="https://img.shields.io/badge/Electron-%2320232.svg?style=for-the-badge&logo=electron&logoColor=%2361DAFB" alt="electron" />
   </a>
   <a href="https://www.android.com/" target="_blank" rel="noreferrer">
-    <h4> Android </h4>
+    <img src="https://img.shields.io/badge/Android-%23#4A853.svg?style=for-the-badge&logo=android&logoColor=black" alt="android" />
   </a>
 
 
