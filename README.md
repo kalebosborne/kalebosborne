@@ -38,16 +38,16 @@
 
   <h5> Languages </h5>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <h4> Python </h4>
+      <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=black" alt="python" />
     </a>
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
       <h4> NodeJs </h4>
     </a>
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-      <h4> Ruby </h4>
+      <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=black" alt="ruby" />
     </a>
     <a href="https://openjdk.org/" target="_blank" rel="noreferrer">
-      <h4> Java </h4>
+      <img src="https://img.shields.io/badge/openjdk-%23F39821.svg?style=for-the-badge&logo=openjdk&logoColor=black" alt="java" />
     </a>
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
       <h4> .Net / C# </h4> 
