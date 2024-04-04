@@ -89,7 +89,7 @@
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
   </a>
   <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=white" alt="tomcat" />
+    <img src="https://img.shields.io/badge/tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="tomcat" />
   </a>
 
   <h5>Version Control</h5>
