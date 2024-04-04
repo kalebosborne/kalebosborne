@@ -58,7 +58,7 @@
 
   <h5> Databases </h5>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <h4> PostgreSQL</h4>
+    <img src="https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
@@ -70,7 +70,7 @@
     <img src="https://img.shields.io/badge/apachecassandra-%231287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="cassandra" />
   </a>
   <a href="https://www.scylladb.com/" target="_blank" rel="noreferrer">
-    <h4>Scylla</h4>
+    <img src="https://img.shields.io/badge/scylladb-%236CD5E7.svg?style=for-the-badge&logo=scylladb&logoColor=white" alt="scylladb" />
   </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />
