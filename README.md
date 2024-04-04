@@ -82,10 +82,19 @@
   <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
     <h4> Linux </h4>
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
+  </a>
+  <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/tomcat-%23F8DC75.svg?style=for-the-badge&logo=tomcat&logoColor=white" alt="tomcat" />
+  </a>
 
   <h5>Version Control</h5>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <h4>Git</h4>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   </a>
 
 
