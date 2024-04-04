@@ -120,7 +120,7 @@
     <h4> Red Hat Enterprise </h4>
   </a>
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <h4> Arch</h4>
+    <img src="https://img.shields.io/badge/arch-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" alt="archlinux" />
   </a>
   <a href="https://www.gentoo.org/" target="_blank" rel="noreferrer">
     <h4> Gentoo </h4>
