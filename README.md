@@ -113,7 +113,7 @@
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
     <h4> Arch</h4>
   </a>
-  <a href=" https://www.gentoo.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.gentoo.org/" target="_blank" rel="noreferrer">
     <h4> Gentoo </h4>
   </a>
   <a href="https://www.alpinelinux.org/" target="_blank" rel="noreferrer">
