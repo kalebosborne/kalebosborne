@@ -37,63 +37,66 @@
   <h3>Backends</h3>
 
   <h5> Languages </h5>
-    <a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <h4> Python </h4>
     </a>
-    <a>
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
       <h4> NodeJs </h4>
     </a>
-    <a>
+    <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
       <h4> Ruby </h4>
     </a>
-    <a>
+    <a href="https://openjdk.org/" target="_blank" rel="noreferrer">
       <h4> Java </h4>
     </a>
-    <a>
-      <h4> .Net / C# </h4>
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+      <h4> .Net / C# </h4> 
     </a>
-    <a>
+    <a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer">
       <h4> C++ </h4>
     </a>
 
   <h5> Databases </h5>
-  <a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <h4> PostgreSQL</h4>
   </a>
-  <a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <h4> MySQL</h4>
   </a>
-  <a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <h4> MongoDB</h4>
   </a>
-  <a>
+  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
     <h4>Cassandra</h4>
   </a>
-  <a>
+  <a href="https://www.scylladb.com/" target="_blank" rel="noreferrer">
+    <h4>Scylla</h4>
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <h4> Redis </h4>
   </a>
 
   <h3> Deployment / Version Control </h3>
 
   <h5>Deployment</h5>
-  <a>
+  <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
     <h4> Linux </h4>
   </a>
 
   <h5>Version Control</h5>
-  <a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <h4>Git</h4>
   </a>
 
 
   <h3> GUIs </h3>
-  <a>
+  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer">
     <h4> GTK </h4>
   </a>
-  <a>
-    <h4> QT </h4>
+  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+    <h4> Electron </h4>
   </a>
-  <a>
+  <a href="https://www.android.com/" target="_blank" rel="noreferrer">
     <h4> Android </h4>
   </a>
 
@@ -101,30 +104,33 @@
   <h3> Others </h3>
 
   <h5> Operating Systems </h5>
-  <a>
+  <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
     <h4>Debian</h4>
   </a>
-  <a>
+  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank" rel="noreferrer">
+    <h4> Red Hat Enterprise </h4>
+  </a>
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
     <h4> Arch</h4>
   </a>
-  <a>
+  <a href=" https://www.gentoo.org/" target="_blank" rel="noreferrer">
     <h4> Gentoo </h4>
   </a>
-  <a>
-    <h4> Slackware </h4>
-  </a>
-  <a>
+  <a href="https://www.alpinelinux.org/" target="_blank" rel="noreferrer">
     <h4> Alpine </h4>
   </a>
-  <a>
+   <a href="http://www.slackware.com/" target="_blank" rel="noreferrer">
+    <h4> Slackware </h4>
+  </a>
+  <a href="https://www.microsoft.com/en-ca/windows" target="_blank" rel="noreferrer">
     <h4> Windows 11 </h4>
   </a>
 
   <h5>Tools</h5>
-  <a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <h4>VS Code</h4>
   </a>
-  <a>
+  <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer">
     <h4> Emacs </h4>
   </a>
   
