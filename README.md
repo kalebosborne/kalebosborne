@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   </a>
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/apachecassandra-%231287B1.svg?style=for-the-badge&logo=appachecassandra&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/apachecassandra-%231287B1.svg?style=for-the-badge&logo=cassandra&logoColor=white" alt="cassandra" />
   </a>
   <a href="https://www.scylladb.com/" target="_blank" rel="noreferrer">
     <h4>Scylla</h4>
@@ -80,7 +80,7 @@
 
   <h5>Deployment</h5>
   <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-    <h4> Linux </h4>
+    <img src="https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" alt="linux" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
