@@ -31,6 +31,6 @@
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
   </a>
   <a href="https://angular.io/ target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/angular-%2978cd.svg?style=for-the-badge&logo=angular&logoColor=%DD0031" alt="angular" />
+    <img src="https://img.shields.io/badge/angular-%232978cd.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031" alt="angular" />
   </a>
 </details>
