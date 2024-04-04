@@ -137,10 +137,10 @@
 
   <h5>Tools</h5>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <h4>VS Code</h4>
+    <img src="https://img.shields.io/badge/visualstudiocode-%232C2C32.svg?style=for-the-badge&logo=visualstudiocode&logoColor=%230098ff" alt="vscode" />
   </a>
   <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer">
-    <h4> Emacs </h4>
+    <img src="https://img.shields.io/badge/gnuemacs-%237F5AB6.svg?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="git" />
   </a>
   
   
