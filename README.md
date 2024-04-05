@@ -128,9 +128,6 @@
   <a href="https://www.gentoo.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/gentoo-%2354487A.svg?style=for-the-badge&logo=gentoo&logoColor=white" alt="gentoo" />
   </a>
-  <a href="https://www.alpinelinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/alpine-%230D597F.svg?style=for-the-badge&logo=alpinelinux&logoColor=white" alt="alpinelinux" />
-  </a>
    <a href="http://www.slackware.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/slackware-%23000000.svg?style=for-the-badge&logo=slackware&logoColor=white" alt="slackware" />
   </a>
