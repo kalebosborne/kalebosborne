@@ -46,7 +46,7 @@
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" />
     </a>
-<a href="https://www.php.org/" target="_blank" rel="noreferrer">
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="python" />
     </a>
     <a href="https://openjdk.org/" target="_blank" rel="noreferrer">
