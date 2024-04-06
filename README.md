@@ -139,6 +139,9 @@
   <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/emacs-%237F5AB6.svg?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="git" />
   </a>
+ <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="git" />
+  </a>
   <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/netbeans ide-%231B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="git" />
   </a>
