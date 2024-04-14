@@ -88,6 +88,9 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
   </a>
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/apache-%23C71E33.svg?style=for-the-badge&logo=apache&logoColor=white" alt="nginx" />
+  </a>
   <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="tomcat" />
   </a>
@@ -104,9 +107,6 @@
   <h3> GUIs </h3>
   <a href="https://www.gtk.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/gtk-%237FE719.svg?style=for-the-badge&logo=gtk&logoColor=dimgray" alt="gtk" />
-  </a>
-  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/electron-%2320232a.svg?style=for-the-badge&logo=electron&logoColor=%2361DAFB" alt="electron" />
   </a>
   <a href="https://www.android.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/android-%234A853.svg?style=for-the-badge&logo=android&logoColor=black" alt="android" />
