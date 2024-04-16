@@ -119,9 +119,6 @@
   <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white" alt="debian" />
   </a>
-  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/RHEL-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white" alt="redhat" />
-  </a>
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/arch-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" alt="archlinux" />
   </a>
