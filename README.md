@@ -122,9 +122,6 @@
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/arch-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" alt="archlinux" />
   </a>
-   <a href="http://www.slackware.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/slackware-%23000000.svg?style=for-the-badge&logo=slackware&logoColor=white" alt="slackware" />
-  </a>
   <a href="https://www.microsoft.com/en-ca/windows" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/windows 11-%230078D4.svg?style=for-the-badge&logo=windows11&logoColor=black" alt="windows11" />
   </a>
