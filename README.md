@@ -52,9 +52,11 @@
     <a href="https://openjdk.org/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/java-%23F39821.svg?style=for-the-badge&logo=openjdk&logoColor=black" alt="java" />
     </a>
+
+    <!--
     <a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=black" alt="c++" />
-    </a>
+    </a> -->
 
   <h5> Databases </h5>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
