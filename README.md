@@ -104,14 +104,6 @@
   </a>
 
 
-  <h3> GUIs </h3>
-  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/gtk-%237FE719.svg?style=for-the-badge&logo=gtk&logoColor=dimgray" alt="gtk" />
-  </a>
-  <a href="https://www.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/android-%234A853.svg?style=for-the-badge&logo=android&logoColor=black" alt="android" />
-  </a>
-
 
   <h3> Others </h3>
 
@@ -136,12 +128,5 @@
  <a href="https://neovim.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="git" />
   </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/android studio-%234A853.svg?style=for-the-badge&logo=androidstudio&logoColor=white" alt="android" />
-  </a>
-  <a href="https://www.gtk.org/docs/dev-tools/gnome-builder/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/gnome builder-%23151515.svg?style=for-the-badge&logo=gnome&logoColor=white" alt="git" />
-  </a>
-  
-  
+
 </details>
